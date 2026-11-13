@@ -1,0 +1,5 @@
+checkpoints/duts_coco9k.zip filter=lfs diff=lfs merge=lfs -text
+checkpoints/duts_cocoseg.zip filter=lfs diff=lfs merge=lfs -text
+checkpoints/vgg16-397923af.zip filter=lfs diff=lfs merge=lfs -text
+models/CONDAiterations50400.pth filter=lfs diff=lfs merge=lfs -text
+pretrain/vgg16-397923af.zip filter=lfs diff=lfs merge=lfs -text
